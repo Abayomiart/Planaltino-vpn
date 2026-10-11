@@ -1,0 +1,6 @@
+{
+  "name": "SSH TLS Tunnel & VPN Client",
+  "description": "Aplicativo avançado de VPN e túnel SSH sobre TLS/SSL com suporte a SNI spoofing, gerador de payload, logs em tempo real e monitor de rede.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
